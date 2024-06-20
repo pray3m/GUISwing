@@ -19,25 +19,25 @@ Java Swing is a part of Java Foundation Classes (JFC) used to create window-base
 ## Topics
 
 ### Design Patterns in Swing
-Learn about common design patterns used in Swing applications to create maintainable and scalable code.
-[Read more](docs/design_patterns)
+Learn about common design patterns used in Swing applications to create maintainable and scalable code. <br>
+[Read more >](docs/design_patterns)
 
 ### Layout Management
-Understand different layout managers in Swing to control the positioning and sizing of components within containers.
-[Read more](docs/layout_management.md)
+Understand different layout managers in Swing to control the positioning and sizing of components within containers. <br>
+[Read more >](docs/layout_management.md)
 
 ### Basic Swing Components
-Explore various Swing components like buttons, labels, text fields, and more, along with their usage and properties.
-[Read more](docs/basic_swing_components.md)
+Explore various Swing components like buttons, labels, text fields, and more, along with their usage and properties.<br>
+[Read more >](docs/basic_swing_components.md)
 
 ### More Swing Components
-Learn to create and manage menus and toolbars, dialogs and popups in your Swing applications.
-[Read more](docs/more_swing_components.md)
+Learn to create and manage menus and toolbars, dialogs and popups in your Swing applications. <br>
+[Read more >](docs/more_swing_components.md)
 
 
 ### Event Handling
-Discover how to handle events in Swing, including user interactions like button clicks and key presses.
-[Read more](docs/event_handling.md)
+Discover how to handle events in Swing, including user interactions like button clicks and key presses. <br>
+[Read more >](docs/event_handling.md)
 
 ## Useful Links
 
