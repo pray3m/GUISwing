@@ -5,7 +5,7 @@ This repository contains detailed guides and examples on various topics in Java 
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Design Patterns in Swing](docs/design_patterns)
+2. [Design Patterns in Swing](docs/design_patterns.md)
 3. [Layout Management](docs/layout_management.md)
 4. [Basic Swing Components](docs/basic_swing_components.md)
 5. [More Swing Components](docs/more_swing_components.md)
