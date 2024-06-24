@@ -9,7 +9,6 @@ Layout Managers :
 /* Uncomment each line for experimenting the different types of layouts */
 
 import javax.swing.*;
-import javax.swing.border.Border;
 import java.awt.*;
 
 public class LayoutDemo {
@@ -20,7 +19,6 @@ public class LayoutDemo {
         jf.setLayout(new BorderLayout());
         
         JPanel p1 = new JPanel();
-        JPanel p2 = new JPanel();
         
         JPanel  redPanel = new JPanel();
         redPanel.setBackground(Color.RED);
@@ -76,19 +74,19 @@ public class LayoutDemo {
 //        p1.setLayout(new FlowLayout(FlowLayout.RIGHT));
         
         /* Box Layout */
-//        p1.setLayout(new BoxLayout(p1,BoxLayout.Y_AXIS));
+//        p1.setLayout(new BoxLayout(p1,BoxLayout.Y_AXIS))
 //        p1.setLayout(new BoxLayout(p1, BoxLayout.X_AXIS));
         
         /* Grid Layout */
 //        p1.setLayout(new GridLayout(2,4));
-        p1.setLayout(new GridLayout(4,2, 20,12));
+        p1.setLayout(new GridLayout(8,1, 20,12));
         
         /*Border Layout */
-//        jf.add(p1, BorderLayout.CENTER);
+        jf.add(p1, BorderLayout.CENTER);
 //        jf.add(p1,BorderLayout.NORTH);
 //        jf.add(p1, BorderLayout.EAST);
 //        jf.add(p1, BorderLayout.WEST);
-        jf.add(p1, BorderLayout.SOUTH);
+//        jf.add(p1, BorderLayout.SOUTH);
 
         jf.setVisible(true);
     }
